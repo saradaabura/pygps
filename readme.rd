@@ -1,4 +1,5 @@
-**使い方**
+READMEの書き方がよくわかりません...
+使い方
 詳しくはQiitaにあります
 https://qiita.com/raspico/items/fef7e46387bd15120f84
 注意点
